@@ -13,3 +13,5 @@
 **** Glide for image loading
 
 **** Request Timeout is set to 10 seconds.
+
+**** Used firebase crashalytics for bug reporting to mimic realtime behaviour.
